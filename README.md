@@ -1,7 +1,7 @@
   <img src="https://komarev.com/ghpvc/?username=ligiakaylanne&color=ff69b4" alt="Profile views" align="right"/>
   <div align="center">
   <h2> Olá, eu sou <strong>Lígia Kaylanne</strong>!</h2>
-  🎓 Estudante de Ciência da Computação - <br>
+  🎓 Estudante de Ciência da Computação <br>
   </div>
 
 ## 📊 GitHub Stats
