@@ -4,8 +4,6 @@
   🎓 Estudante de Ciência da Computação <br>
   </div>
 
-## 📊 GitHub Stats
-
 <table>
   <tr>
     <td align="center">
