@@ -1,12 +1,8 @@
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ligiakaylanne&color=ff69b4" alt="Profile views" align="right"/>
-
+  <div align="center">
   <h2> Olá, eu sou <strong>Lígia Kaylanne</strong>!</h2>
-
   🎓 Estudante de Ciência da Computação - <strong>UNIPÊ (5º período)</strong><br>
-</div>
-
----
+  </div>
 
 ## 📊 GitHub Stats
 
@@ -55,7 +51,6 @@
 
 <div align="center">
 
-✨ Feito com dedicação por **Lígia Kaylanne** ✨  
 📬 Me encontre por aqui:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ligiakaylanne)
